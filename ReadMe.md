@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 i'm currently studying at Bina Nusantara University with a major in Computer Science.<br>📖 i'm currently learning about I am currently learning about machine learning, deep learning, and data science.<br>
+🎓 i'm currently studying at Bina Nusantara University with a major in Computer Science.<br>📖 I am currently learning about machine learning, deep learning, and data science.<br>
 
 
 ## 🌐 Socials:
