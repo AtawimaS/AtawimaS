@@ -1,12 +1,12 @@
 # 💫 About Me:
 # Hi there, I'm Tan, William Marcelino! 👋
 
-[cite_start]A Data Science Graduate and final-year Computer Science student at **Bina Nusantara University** (with a minor in Data Science)[cite: 5, 13]. [cite_start]I am deeply passionate about Artificial Intelligence, Deep Learning, and transforming complex data into automated, scalable solutions[cite: 5, 7, 22].
+A Data Science Graduate and final-year Computer Science student at **Bina Nusantara University** (with a minor in Data Science)[cite: 5, 13]. [cite_start]I am deeply passionate about Artificial Intelligence, Deep Learning, and transforming complex data into automated, scalable solutions.
 
-- [cite_start]🎓 Currently completing my Bachelor's degree at BINUS University[cite: 13].
-- [cite_start]💼 Former **Database Management Intern / Database Specialist Intern** at **PT Astra International Tbk - AstraWorld**[cite: 16].
-- [cite_start]🔬 Published researcher specializing in Large Language Models (LLMs) and Prompt Engineering[cite: 30, 36].
-- [cite_start]🛠️ Actively building AI-driven automation systems and optimizing end-to-end Data/ETL pipelines[cite: 7, 18].
+- 🎓 Currently completing my Bachelor's degree at BINUS University.
+- 💼 Former **Database Management Intern / Database Specialist Intern** at **PT Astra International Tbk - AstraWorld**.
+- 🔬 Published researcher specializing in Large Language Models (LLMs) and Prompt Engineering.
+- 🛠️ Actively building AI-driven automation systems and optimizing end-to-end Data/ETL pipelines.
 
 ---
 
