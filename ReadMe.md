@@ -1,8 +1,7 @@
 # 💫 About Me:
 # Hi there, I'm Tan, William Marcelino! 
 
-A Data Science Graduate and final-year Computer Science student at **Bina Nusantara University** (with a minor in Data Science)[cite: 5, 13]. [cite_start]I am deeply passionate about Artificial Intelligence, Deep Learning, and transforming complex data into automated, scalable solutions.
-
+A Computer Science Graduate from **Bina Nusantara University** (with a minor in Data Science).I am deeply passionate about Artificial Intelligence, Deep Learning, and transforming complex data into automated, scalable solutions
 - 🎓 Currently completing my Bachelor's degree at BINUS University.
 - 🔬 Published researcher specializing in Large Language Models (LLMs) and Prompt Engineering.
 - 🛠️ Actively building AI-driven automation systems and optimizing end-to-end Data/ETL pipelines.
